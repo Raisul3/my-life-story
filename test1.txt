@@ -2,5 +2,3 @@ I bron in 16 march 2002
 I have done my ssc 2018
 I have completed my hsc in 2020
 I have to learn about git and github
-I have finished git and github tuitorials
-Recently I am staring CS.
