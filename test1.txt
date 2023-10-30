@@ -1,7 +1,11 @@
 I bron in 16 march 2002
 I have done my ssc 2018
 I have completed my hsc in 2020
+<<<<<<< HEAD
 I have to learn about git and github
 I have finished git and github tuitorials
 Recently I am staring CS.
 I will join army
+=======
+I have to learn about git and github
+>>>>>>> 020001e766ced84842567fd3e9e70afce4d17db5
