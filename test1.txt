@@ -14,3 +14,4 @@ I have to learn about git and github
 I wanna buy a car
 
 >>>>>>> feature2
+Logo alignment is centred
